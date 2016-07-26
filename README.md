@@ -6,7 +6,7 @@ The [data folder](https://github.com/Shadrock/RNI-Activity-Map/tree/master/Data)
 * A complete [list of all activities](Data/RNI_activities_2013-2015.geojson) conducted as part of RNI in GeoJSON. 
 * A complete [list of all activities](https://github.com/Shadrock/RNI-Activity-Map/blob/master/Data/RNI_download_20160603.csv) conducted as part of RNI in a table... for those who like that sort of thing. 
 
-[GeoJSON](http://geojson.org/) is a great open standard format designed for representing simple geographical features, which also allows for [data to be previewed as a map via Github](https://help.github.com/articles/mapping-geojson-files-on-github/). Because Ushahidi deployments commonly offer .csv as a download default, I used [this tool] (http://www.convertcsv.com/csv-to-geojson.htm) to convert .csv to GeoJSON. Two other tools I find useful are Mapbox's [handy tool](http://mapbox.github.io/togeojson/) for converting .gpx files to GeoJSON and [geojson.io[(http://geojson.io).
+[GeoJSON](http://geojson.org/) is a great open standard format designed for representing simple geographical features, which also allows for [data to be previewed as a map via Github](https://help.github.com/articles/mapping-geojson-files-on-github/). Because Ushahidi deployments commonly offer .csv as a download default, I used [this tool] (http://www.convertcsv.com/csv-to-geojson.htm) to convert .csv to GeoJSON. Two other tools I find useful are Mapbox's [handy tool](http://mapbox.github.io/togeojson/) for converting .gpx files to GeoJSON and [geojson.io](http://geojson.io).
 
 
 
