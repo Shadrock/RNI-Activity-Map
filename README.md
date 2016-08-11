@@ -13,10 +13,10 @@ Note that each record contains a field labeled "Geo Precision Code." The number 
 The following steps were taken to convert data from an Ushahidi deployment (version 2) for this repository.
 
 1. Downloaded data from the [Ushahidi deployment](http://rni.ushahidi.com).
-2. Previewed data and corrected diacritical marks and other typographic symbols that did not display correctly in a spreadsheet editor. Also added the geographic precision code, which is part of a custom form in the Ushahidi instance that did not automatically appear in the report download. 
+2. Previewed data and corrected diacritical marks and other typographic symbols that did not display correctly in a spreadsheet editor. Also added the geographic precision code, which is part of a custom form in the Ushahidi deployment that did not automatically appear in the report download. 
 3. Because older Ushahidi deployments commonly offer .csv as a download default, I used [this tool] (http://www.convertcsv.com/csv-to-geojson.htm) to convert .csv to GeoJSON.
-4. Previewed and cleaned up resultant code with Mapbox's [geojson.io](http://geojson.io), which also allowed me to...
-5. Save code directly to Github. 
+4. Previewed and cleaned up resultant code with [Mapbox's](https://www.mapbox.com/) [geojson.io](http://geojson.io), which also allowed me to...
+5. save code directly to Github. 
 
 Additionally, Mapbox has another [handy tool](http://mapbox.github.io/togeojson/) for converting .gpx files to GeoJSON.
 
