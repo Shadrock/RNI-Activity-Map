@@ -1,5 +1,5 @@
 # Geocoded RNI Activities in GeoJSON
-This repository contains a data folder with a complete list of geocoded activities that were conducted as part of [Ushahidi](https://www.ushahidi.com)'s [Resilience Network Initiative](http://cityresilience.net/what-is-rni.html)("RNI") in GeoJSON. [GeoJSON](http://geojson.org/) is a great open standard format designed for representing simple geographical features, which also allows for [data to be previewed as a map via Github](https://help.github.com/articles/mapping-geojson-files-on-github/). 
+This repository contains a data folder with a complete list of geocoded activities that were conducted as part of [Ushahidi](https://www.ushahidi.com)'s [Resilience Network Initiative](http://cityresilience.net/what-is-rni.html) ("RNI") in GeoJSON. [GeoJSON](http://geojson.org/) is a great open standard format designed for representing simple geographical features, which also allows for [data to be previewed as a map via Github](https://help.github.com/articles/mapping-geojson-files-on-github/). 
 
 ##Data
 The [data folder](https://github.com/Shadrock/RNI-Activity-Map/tree/master/Data) contains:
