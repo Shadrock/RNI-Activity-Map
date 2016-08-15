@@ -9,7 +9,11 @@ The [data folder](https://github.com/Shadrock/RNI-Activity-Map/tree/master/Data)
 
 Note that each record contains a field labeled "Geo Precision Code." The number provided corresponds to the [International Aid Transparency Initiative's (IATI) geographical precision standard](http://iatistandard.org/202/codelists/GeographicalPrecision/), which clarifies the accuracy and usage of geographical coordinates.
 
-## Steps for Converting Data
+These data were created and used primarily as a method of real-time reporting to donors and other stakeholders and document events that were of importance to complete various aspects of the overall project. Data were created using the Ushahidi platform ([Github here](https://github.com/ushahidi/platform) | [project deployment here](http://rni.ushahidi.com)) and replicated in the OpenExplorer platform ([project deployment here](https://openexplorer.com/expedition/rnix)) to provide multiple ways of interacting with the data. 
+
+There is no overarching definition of what constitutes an ‘activity’ so some records may indicate a discreet event such as a contract signing, while others may denote the culmination of a series of discreet events that led to a project milestone or deliverable, such as the completion of a neighborhood map. These data are an example of the granularity that is possible for reporting and documenting. I welcome feedback on how data creation of this type can be improved for various uses.  
+
+## Data Creation Process
 The following steps were taken to convert data from an Ushahidi deployment (version 2) for this repository.
 
 1. Downloaded data from the [Ushahidi deployment](http://rni.ushahidi.com).
