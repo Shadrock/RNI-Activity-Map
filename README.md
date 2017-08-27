@@ -18,7 +18,7 @@ The following steps were taken to convert data from an Ushahidi deployment (vers
 
 1. Downloaded data from the [Ushahidi deployment](http://rni.ushahidi.com).
 2. Previewed data and corrected diacritical marks and other typographic symbols that did not display correctly in a spreadsheet editor. Also added the geographic precision code, which is part of a custom form in the Ushahidi deployment that did not automatically appear in the report download. 
-3. Because older Ushahidi deployments commonly offer .csv as a download default, I used [this tool] (http://www.convertcsv.com/csv-to-geojson.htm) to convert .csv to GeoJSON.
+3. Because older Ushahidi deployments commonly offer .csv as a download default, I used [this tool](http://www.convertcsv.com/csv-to-geojson.htm) to convert .csv to GeoJSON.
 4. Previewed and cleaned up resultant code with [Mapbox's](https://www.mapbox.com/) [geojson.io](http://geojson.io), which also allowed me to...
 5. save code directly to Github. 
 
