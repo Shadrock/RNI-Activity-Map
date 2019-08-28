@@ -3,7 +3,7 @@ This repository contains a data folder with a complete list of geocoded activiti
 
 ## Data
 The [data folder](https://github.com/Shadrock/RNI-Activity-Map/tree/master/Data) contains:
-* A polygon to denote the [boundaries of the neighborhood of Purwodinatan](Data/Purwodinatan%20Neighborhood%20Project%20Area.geojson), which was the focus of our work in Semarang, Indonesia. You can learn more about that project [in this video](https://vimeo.com/129603769) and [this blog post](http://www.100resilientcities.org/blog/entry/kathmandu-semarang-citizen-engagement-and-open-data-mapping-in-two-cities#/-_/).
+* A polygon to denote the [boundaries of the neighborhood of Purwodinatan](Data/Purwodinatan%20Neighborhood%20Project%20Area.geojson), which was the focus of our work in Semarang, Indonesia. You can learn more about that project [in this video](https://vimeo.com/129603769), [this blog post](http://www.100resilientcities.org/blog/entry/kathmandu-semarang-citizen-engagement-and-open-data-mapping-in-two-cities#/-_/), or [this timeline](https://www.ushahidi.com/stories/resilience).
 * A complete [list of **all** activities](Data/RNI_activities_2013-2015.geojson) conducted as part of RNI in GeoJSON. 
 * A complete [list of **all** activities](Data/RNI_download_20160811.csv) conducted as part of RNI in a table... for those who like that sort of thing. 
 
